@@ -3,7 +3,7 @@
 * Written by : Bogdan Boiko, John Sliwa, Geoff Lebbos
 * Date       : 05-02-2017
 * Description:
-*---------------------------------------------------------------------
+*--------------------------------------------------------------------- 
 
 userinput   EQU     $00A0           * user input
 minAddress  EQU     $00000000       * min address
